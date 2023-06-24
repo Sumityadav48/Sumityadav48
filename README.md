@@ -1,4 +1,4 @@
-[MasterHead](https://e0.pxfuel.com/wallpapers/135/975/desktop-wallpaper-java-programming.jpg)
+![MasterHead](https://e0.pxfuel.com/wallpapers/135/975/desktop-wallpaper-java-programming.jpg)
 <h1 align="center">Hi 👋, I'm Sumit Yadav</h1>
 <h3 align="center">A passionate Software Developer, Software Tester, Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
